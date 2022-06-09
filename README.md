@@ -1,7 +1,7 @@
 
 # Tindog
 
-Tindog project is a static webpage template designed. 
+Tindog project is a static webpage template. 
 
 
 ## 🛠 Skills
