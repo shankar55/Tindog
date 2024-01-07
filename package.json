@@ -1,0 +1,13 @@
+{
+  "homepage": "Tindog",
+  "name": "tindog-completed-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "\"static webpage for UI experience"
+}
